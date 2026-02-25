@@ -1,19 +1,26 @@
 ![Header](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ4bWE0emp6eDhpc3E0NmV1aWx0eTV3cTNwbGRtenVnb21udDMwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
 
 ## Hi there 👋
-My name is Cláudia, a.k.a Cacau. I'm graduated web developer from Brazil and a nerd on free time.
+My name is Cláudia, a.k.a Cacau. I'm graduated web developer from Brazil and a full nerd on free time.
 
 ## Extra perks
-These days i'm also following my passion from design, studying both ux/ui and graphic design. Figma is my new jam hehe.
+These days i'm also following my passion from design, studying both ux/ui and graphic design. Figma is my new love, hehe.
 
-## 🔧 Technologies & Tools
+## Code
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
+
+## IDE's
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
+
+## 🔧 Tools
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+## Cloud
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
+
+## UX/UI Tools
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
